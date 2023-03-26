@@ -71,7 +71,7 @@ public static class Program
                 }
             }
             Array.Sort(array);
-            Array.Distinct(array);
+           
             Console.WriteLine($"Второй наибольший элемент: {array[i - 2]}");
         }
         
